@@ -43,7 +43,7 @@ define("Show_ChatHome", true); // -- Opção Template TUKKER --- Exbir Chat (tru
 	@ true = Sim
 	@ false = Não
 *****************************************************************************/
-define("MSSQL_Host", "127.0.0.1"); // -- Host do MSSQL (Padrão -> 127.0.0.1)
+define("MSSQL_Host", "alph.syets.net"); // -- Host do MSSQL (Padrão -> 127.0.0.1)
 define("MSSQL_User", "sa"); // -- Usuario do MSSQL (Padrão -> sa)
 define("MSSQL_Pass", "l1753ttt"); // -- Senha do MSSQL
 define("MSSQL_DB", "CTM_Team"); // -- DataBase do Web Site (Padrão -> CTM_TeaM)
@@ -170,7 +170,7 @@ define("BB_Text", "/zen"); // -- Outra Informação do Bug Bless (Somente para B
 define("Server_Time", "24/7"); // -- Horário do Servidor
 define("Server_Type", 1); // -- Tipo de Servidor [1=Semi-Dedicado] [2=Dedicado]
 define("Status_Enable", 1); // -- Exibir Status do Server [0=Não] [1=Sim] [2=Manutenção]
-define("GS_Host", "127.0.0.1"); // -- IP/Host do GameServer (Padrão -> 127.0.0.1);
+define("GS_Host", "alph.sytes.net"); // -- IP/Host do GameServer (Padrão -> 127.0.0.1);
 define("GS_Port", 44405); // -- Porta do GameServer (Padrão -> 55901)
 
 /*****************************************************************************
@@ -180,14 +180,14 @@ define("GS_Port", 44405); // -- Porta do GameServer (Padrão -> 55901)
 	@ false = Não
 *****************************************************************************/
 define("Server_List", true); // -- Ativar/Desativar Lista de Servidores
-define("CS_Host", "127.0.0.1"); // -- IP do ConnectServer (Padrão -> 127.0.0.1)
+define("CS_Host", "alph.sytes.net"); // -- IP do ConnectServer (Padrão -> 127.0.0.1)
 define("CS_Port", 44405); // -- Porta do ConnectServer (Padrão -> 44405)
 ##################################################################
 	# Configurações dos GameServers
 	# Somente se tiver Abilitado
 	# Exemplo: 0 => array("Nome do Servidor", "Nome do GameServer", Maximo de Conexões),
 ##################################################################
-$_ServerList = array(0 => array("BetaHard", "BetaHard", 20)
+$_ServerList = array(0 => array("BetaHard", "BetaHard", 40)
 					 );
 
 
@@ -283,7 +283,7 @@ $_Suportt["Mail"] = array(0 => array("jeffe118752@gmail.com", "ADMIN"),
 	# Somente se tiver Ativado
 	# Exemplo: 0 => array("Numero do Telefone", "Atendente", "Falar com:"),
 ##################################################################
-$_Suportt["Phone"] = array(0 => array("(47) 988125644", "Admin", "Admin"),
+$_Suportt["Phone"] = array(0 => array("(47) 90000000", "Admin", "Admin"),
 			   			   1 => array("(00) 0000000", "GM", "GM"),
 			   			  );
 						  
