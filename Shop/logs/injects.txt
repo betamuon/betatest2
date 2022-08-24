@@ -1,0 +1,99 @@
+IP: 189.74.169.225 
+IP Reverso: 189-74-169-225.gnale700.dsl.brasiltelecom.net.br 
+Data: 03/06/2010 23:49 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 
+Pagina:  
+Metodo: GET 
+
+Value: \' 
+
+--------------------
+
+IP: 189.74.169.225 
+IP Reverso: 189-74-169-225.gnale700.dsl.brasiltelecom.net.br 
+Data: 03/06/2010 23:49 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 
+Pagina:  
+Metodo: GET 
+
+Value: \' 
+
+--------------------
+
+IP: 189.74.169.225 
+IP Reverso: 189-74-169-225.gnale700.dsl.brasiltelecom.net.br 
+Data: 03/06/2010 23:56 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 
+Pagina:  
+Metodo: GET 
+
+Value: \' 
+
+--------------------
+
+IP: 189.74.169.225 
+IP Reverso: 189-74-169-225.gnale700.dsl.brasiltelecom.net.br 
+Data: 04/06/2010 10:24 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 
+Pagina:  
+Metodo: GET 
+
+Value: 1\'ELECT me 
+
+--------------------
+
+IP: 189.74.169.225 
+IP Reverso: 189-74-169-225.gnale700.dsl.brasiltelecom.net.br 
+Data: 04/06/2010 10:24 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 6.1; pt-BR; rv:1.9.2.3) Gecko/20100401 Firefox/3.6.3 
+Pagina:  
+Metodo: GET 
+
+Value: 1\'ELECT me 
+
+--------------------
+
+IP: 201.41.182.15 
+IP Reverso: 201-41-182-15.ctaje700.dsl.brasiltelecom.net.br 
+Data: 06/06/2010 14:09 
+Navegador: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; InfoPath.2; .NET CLR 2.0.50727; OfficeLiveConnector.1.3; OfficeLivePatch.0.0; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729) 
+Pagina:  
+Metodo: POST 
+
+Value: Ex: 14;0 
+
+--------------------
+
+IP: 201.29.73.150 
+IP Reverso: 20129073150.user.veloxzone.com.br 
+Data: 20/06/2010 13:36 
+Navegador: Opera/9.80 (Windows NT 5.1; U; pt-BR) Presto/2.5.24 Version/10.53 
+Pagina:  
+Metodo: GET 
+
+Value: 24585626\' 
+
+--------------------
+
+IP: 187.11.227.169 
+IP Reverso: 187-11-227-169.dsl.telesp.net.br 
+Data: 07/07/2010 17:05 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.2.6) Gecko/20100625 Firefox/3.6.6 
+Pagina: /mu/season5/shop/?cmd=ConfirmSystem&Write=true 
+Metodo: POST 
+
+Value: 10;20;25 
+
+--------------------
+
+IP: 189.75.103.251 
+IP Reverso: 189-75-103-251.gnace704.e.brasiltelecom.net.br 
+Data: 12/07/2010 19:30 
+Navegador: Mozilla/5.0 (Windows; U; Windows NT 5.1; pt-BR; rv:1.9.2.6) Gecko/20100625 AskTbSB/3.8.0.12304 Firefox/3.6.6 
+Pagina: /mu/season5/shop/index.php?AjaxFunctions=TRUE&Function=CouponActive&couponCode=%22MEGAFIGHT&cache=1278973814620 
+Metodo: GET 
+
+Value: \"MEGAFIGHT 
+
+--------------------
+

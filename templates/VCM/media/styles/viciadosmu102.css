@@ -1,0 +1,21 @@
+/*********************************************************************
+** CSS Document - Template ViciadosMu
+*********************************************************************/
+* html .ddsmoothmenu{height:1%;} /*Holly Hack for IE7 and below*/
+.downarrowclass{position:absolute; top:12px; right:7px;}
+.rightarrowclass{position:absolute; top:6px; right:5px;}
+.ddshadow{position:absolute; left:0; top:0; width:0; height:0;}
+.toplevelshadow{/*shadow opacity. Doesn't work in IE*/}
+#menu{display:block; width:980px; clear:both;}
+#menu ul{z-index:100; list-style:none; height:36px; width:980px; margin:0; padding:5px; background:url(../../images/design/transparent.png) repeat; border:1px solid #222; border-radius:0 0 8px 8px; -moz-border-radius:0 0 8px 8px; -webkit-border-radius:0 0 8px 8px;}
+#menu ul li{float:left; display:block; margin:0; padding:0; list-style:none; font:12px Tahoma, Geneva, sans-serif; text-transform:uppercase;}
+#menu ul li a{display:block; margin:0; padding:12px; border-right:1px solid #222; color:#fff; text-shadow:0 0 5px red; text-decoration:none;}
+#menu ul li a:hover{color:#ffbebe; text-shadow:0 0 3px red;}
+.ddsmoothmenu ul li{position:relative; display:inline; list-style:none; float:left;}
+.ddsmoothmenu ul li ul{position:absolute; margin:0; display:none; visibility:hidden; padding:0; background:#070707; width:auto !important; height:auto !important;}
+.ddsmoothmenu ul li ul li{display:inline-block; float:none;} .ddsmoothmenu ul li ul li ul{top:0;}
+.ddsmoothmenu ul li ul li a{padding:3px; margin:0; border-right:none !important; border-bottom:1px dotted #222 !important; width:100px; display:block; font-size:10px; color:#ddd !important;} .ddsmoothmenu ul li ul li a:hover{opacity:0.8; -moz-opacity:0.8; filter:alpha(opacity=80); color:#ffbebe !important; text-shadow:0 0 3px red;}
+* html .ddsmoothmenu{height:1%;} /*Holly Hack for IE7 and below*/
+
+
+
